@@ -7,7 +7,7 @@
 #   hubot 
 #
 # Author:
-#   Bren Sapience <brendan.sapience@gmail.com>
+#   Sambhav Thakur <sambhavkumar228@gmail.com>
 
 utils = require './utils'
 

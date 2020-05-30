@@ -1,0 +1,9 @@
+node_modules
+.DS_Store*
+.hubot_history
+hubot
+scripts/token*
+nohup*
+dump.rd*
+bin/set_env.sh
+

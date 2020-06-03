@@ -6,5 +6,5 @@ This version is only a prototype.
 
 ### usage
 Only one command for now:
-    Get Reports
+         Get Reports
         => runs a bot (configured in the code) against a client

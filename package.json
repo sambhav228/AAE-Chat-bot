@@ -5,7 +5,7 @@
   "author": "Bren Sapience <brendan.sapience@gmail.com>",
   "description": "home automation bot",
   "dependencies": {
-    "hubot": "^2.19.0",
+    "hubot": "^3.3.2",
     "hubot-diagnostics": "0.0.2",
     "hubot-google-images": "^0.2.7",
     "hubot-google-translate": "^0.2.1",
